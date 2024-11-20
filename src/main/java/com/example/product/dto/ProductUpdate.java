@@ -8,5 +8,5 @@ import org.springframework.stereotype.Service;
 @Getter
 public class ProductUpdate {
     int price;
-
+    String name;
 }
